@@ -1,0 +1,5 @@
+<!--pages/contact/contact.wxml-->
+<view class='container'>
+  <text>联系我</text>
+</view>
+
